@@ -17,6 +17,9 @@ nbproject/
 .idea/
 *.iml
 
+# Eclipse
+.project
+
 # Generated
 *.txt
 *.html
@@ -39,3 +42,4 @@ core/private
 # MACOS
 .DS_Store
 /JavaFXApplication3/dist/
+
